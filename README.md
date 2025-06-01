@@ -26,9 +26,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![CCNA](https://img.shields.io/badge/-CCNA-000000?style=flat&logo=cisco)
-![CCNP](https://img.shields.io/badge/-CCNP-000000?style=flat&logo=cisco)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
