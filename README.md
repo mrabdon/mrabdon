@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-markrondol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrabdon/)](https://www.linkedin.com/in/mrabdon/)
 [![Gmail Badge](https://img.shields.io/badge/-mrpabdon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrpabdon@gmail.com)](mailto:mrpabdon@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://mrabdon.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
